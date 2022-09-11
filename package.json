@@ -1,11 +1,13 @@
 {
   "name": "create-hardhat-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "CLI tool to create a new hardhat project minimizing the repetitive configuration.",
+  "main": "bin/index.js",
   "bin": {
     "create-hardhat-project": "bin/index.js"
   },
+  "repository": "git://github.com/raoulpicconi/create-hardhat-project.git",
+  "bugs": "https://github.com/raoulpicconi/create-hardhat-project/issues",
   "author": "Raoul Picconi <raoulpicconi03@gmail.com>",
   "license": "MIT",
   "dependencies": {

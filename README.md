@@ -91,3 +91,56 @@ estimate the gas fee and write test verifing the coverage automatically**
 - [hardhat-deply-ethers](https://github.com/wighawag/hardhat-deploy-ethers)
 - [hardhat-gas-reporter](https://www.npmjs.com/package/hardhat-gas-reporter)
 - [solidity-coverage](https://www.npmjs.com/package/solidity-coverage)
+
+## Contributing to this project 👊
+
+Thanks for showing interest to contribute to Create hardat project!
+
+Follow the directions below to setup your project and contribute to this repository.
+
+1. Fork the repo (click the <kbd>Fork</kbd> button at the top right of [this page](https://github.com/raoulpicconi/create-hardhat-project))
+
+2. Clone your fork locally
+
+```sh
+git clone https://github.com/<YOUR_USERNAME>/create-hardhat-project.git
+cd create-hardhat-project
+```
+
+3. Setup all the dependencies and packages
+
+```sh
+npm install
+```
+
+Once you submit a PR, we'll respond as soon as possible so we can take a look at what you've made!
+
+## Making a Pull Request?
+
+That's **awesome**! Start by following the instructions given earlier of how to run this project on your system locally.
+
+Then, commit and push your changes:
+
+```bash
+git add .
+git commit -m "My commit message"
+git push
+```
+
+Once finished, you can create a pull request!
+
+Is it your first time? Check out [this link](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to learn how to submit a pull request.
+
+## Think you found a bug? 🐛
+
+Please [submit an issue](https://github.com/raoulpicconi/create-hardhat-project/issues/new) and **provide a clear path to reproduction with a code example**.
+
+The clearer you are, the easier it will be for us help!
+
+## License
+
+Create hardhat project is open source software [licensed as MIT](https://github.com/raoulpicconi/create-hardhat-project/LICENSE).
+
+## Do you like my work?
+
+Contact me on (Linkedin)[https://linkedin.com/in/raoulpicconi] or see my other work on (Github)[https://github.com/raoulpicconi]

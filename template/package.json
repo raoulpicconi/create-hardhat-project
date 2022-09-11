@@ -1,7 +1,7 @@
 {
   "name": "template",
   "version": "1.0.0",
-  "description": "CLI tool to create a new hardhat project minimizing the repetitive configuration.",
+  "description": "",
   "main": "index.js",
   "author": "Raoul Picconi",
   "license": "MIT",
