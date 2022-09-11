@@ -1,0 +1,15 @@
+{
+  "name": "create-hardhat-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-hardhat-project": "bin/index.js"
+  },
+  "author": "Raoul Picconi <raoulpicconi03@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "prompts": "^2.4.2"
+  }
+}
