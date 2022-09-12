@@ -139,7 +139,7 @@ The clearer you are, the easier it will be for us help!
 
 ## License
 
-Create hardhat project is open source software [licensed as MIT](https://github.com/raoulpicconi/create-hardhat-project/LICENSE).
+Create hardhat project is open source software [licensed as MIT](https://github.com/raoulpicconi/create-hardhat-project/blob/main/LICENSE).
 
 ## Do you like my work?
 
