@@ -143,4 +143,4 @@ Create hardhat project is open source software [licensed as MIT](https://github.
 
 ## Do you like my work?
 
-Contact me on (Linkedin)[https://linkedin.com/in/raoulpicconi] or see my other work on (Github)[https://github.com/raoulpicconi]
+Contact me on [Linkedin](https://linkedin.com/in/raoulpicconi) or see my other works on [Github](https://github.com/raoulpicconi)
